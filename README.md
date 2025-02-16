@@ -17,7 +17,7 @@ Discord: https://discord.gg/F2dh5ZXX55
 # 特别鸣谢
 
 本项目灵感来源于Seraphine:
-[https://github.com/trilleplay/seraphine](https://github.com/Zzaphkiel/Seraphine)
+[https://github.com/Zzaphkiel/seraphine](https://github.com/Zzaphkiel/Seraphine)
 
 不妨也试试Akari:
 [https://github.com/Hanxven/LeagueAkari](https://github.com/Hanxven/LeagueAkari)
