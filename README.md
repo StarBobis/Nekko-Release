@@ -1,6 +1,7 @@
 # Nekko
 
 英雄联盟战绩智能分析工具，基于LCU API。
+![image](https://github.com/user-attachments/assets/92d28c99-1027-470f-a285-a80a95aa5fb4)
 
 # 核心功能
 - 基于规则标签的召唤师战绩数据分析。
